@@ -23,4 +23,9 @@ public class ActionsWithWebElements {
             log.error("Login doesn't input " + ex);
         }
     }
+
+    public  void ClickMethod(By button)
+    {
+        driver.findElement(button).click();
+    }
 }
