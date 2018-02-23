@@ -8,6 +8,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.LoginPage;
+import pages.SlovariApparat;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -17,6 +18,7 @@ public class ValidLogin {
     WebDriver driver;
     Logger log;
     LoginPage loginPage;
+
 
     @Before
     public void setUp()
@@ -37,11 +39,13 @@ public class ValidLogin {
        loginPage.InputLoginName("Student");
        loginPage.InputPass("909090");
        loginPage.ClickSubmitButton();
-    }
-    @After
-    public void TearDown()
 
-    {
-        driver.quit();
+
     }
+    //@After
+  //  public void TearDown()
+
+  //  {
+    //    driver.quit();
+  //  }
 }
