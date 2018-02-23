@@ -1,6 +1,7 @@
 package pages;
 
 
+import libs.ActionsWithWebElements;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,8 +11,9 @@ import org.openqa.selenium.WebDriver;
 public class LoginPage {
     WebDriver driver;
     Logger log;
-    By LoginNameInputName = By.name("_username");
-    String loginNameInputName = "_username";
+    ActionsWithWebElements actionsWithWebElements;
+
+    By loginNameInputName = By.name("_username");
     String getLoginNameInputXpath = "//*[@name='_username']";
 
     String passInputId = "password";
@@ -24,6 +26,7 @@ public class LoginPage {
     {
         this.driver = driver;
         log = Logger.getLogger(getClass());
+        actionsWithWebElements = new ActionsWithWebElements(driver);
     }
 
     public void OpenPage(String link)
@@ -38,14 +41,7 @@ public class LoginPage {
     }
     public void InputLoginName(String login)
     {
-        try {
-            driver.findElement(LoginNameInputName).clear();
-            driver.findElement(By.name(loginNameInputName)).sendKeys(login);
-            log.info("Login is inputted");
-        }
-        catch (Exception ex){
-            log.error("Login was not filled out");
-        }
+       actionsWithWebElements.InputToTextField(loginNameInputName, login);
     }
     public void InputPass(String pass)
     {

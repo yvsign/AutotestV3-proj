@@ -12,7 +12,7 @@ public class SlovariApparat {
 
     By slovariMenuXpath = By.xpath("//ul[@class = 'sidebar-menu']//span[text() = 'Словари']");
     By apparatMenuSlovariXpath = By.xpath("//a[@href='/dictionary/apparat']");
-    By addApparatButtonXpath = By.xpath("//i[@class='fa fa-plus'");
+    By addApparatButtonXpath = By.xpath("//i[@class='fa fa-plus']");
     By apparatNumberFieldXpath = By.xpath("//input[@id='apparat_apparatNumber']");
     By apparatCommentXpath = By.xpath("//input[@id='apparat_apparatComment']");
     By submitButtonCreate = By.xpath("//div[@class = 'box-footer']/button[@type='submit']");
@@ -26,14 +26,33 @@ public class SlovariApparat {
 
     public void  OpenSlovariApparat()
     {
-        actionsWithWebElements.ClickMethod(slovariMenuXpath);
-        actionsWithWebElements.ClickMethod(apparatMenuSlovariXpath);
+        try {
+
+            actionsWithWebElements.ClickMethod(slovariMenuXpath);
+            log.info("Slovari opened");
+            actionsWithWebElements.ClickMethod(apparatMenuSlovariXpath);
+            log.info("Apparat opened");
+        }
+        catch (Exception ex){
+            log.error("Error" + ex);
+        }
     }
     public  void CreateApparat()
     {
-        actionsWithWebElements.ClickMethod(addApparatButtonXpath);
-        actionsWithWebElements.InputToTextField(apparatNumberFieldXpath, "121");
-        actionsWithWebElements.InputToTextField(apparatCommentXpath,"Stupitsa");
-        actionsWithWebElements.ClickMethod(submitButtonCreate);
+        try {
+
+            actionsWithWebElements.ClickMethod(addApparatButtonXpath);
+            log.info("Add push");
+            actionsWithWebElements.InputToTextField(apparatNumberFieldXpath, "121");
+            log.info("Number inputted");
+            actionsWithWebElements.InputToTextField(apparatCommentXpath, "Stupitsa");
+            log.info("Name inputted");
+            actionsWithWebElements.ClickMethod(submitButtonCreate);
+            log.info("Submit clicked");
+        }
+        catch (Exception ex)
+        {
+            log.error("Error" + ex);
+        }
     }
 }
