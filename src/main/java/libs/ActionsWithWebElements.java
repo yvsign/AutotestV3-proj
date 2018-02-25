@@ -22,7 +22,7 @@ public class ActionsWithWebElements {
      * @param element
      * @param value
      */
-    public void InputToTextField(WebElement element, String value) {
+    public void inputToTextField(WebElement element, String value) {
         try {
             element.clear();
             element.sendKeys(value);
@@ -36,7 +36,7 @@ public class ActionsWithWebElements {
      * This method click to web element
      * @param button
      */
-    public void ClickMethod(WebElement button) {
+    public void clickMethod(WebElement button) {
         button.click();
     }
 

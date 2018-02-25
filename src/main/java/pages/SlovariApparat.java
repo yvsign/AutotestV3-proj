@@ -38,9 +38,9 @@ public class SlovariApparat extends ParentPage {
     {
         try {
 
-            actionsWithWebElements.ClickMethod(slovariMenuXpath);
+            actionsWithWebElements.clickMethod(slovariMenuXpath);
             log.info("Slovari opened");
-            actionsWithWebElements.ClickMethod(apparatMenuSlovariXpath);
+            actionsWithWebElements.clickMethod(apparatMenuSlovariXpath);
             log.info("Apparat opened");
         }
         catch (Exception ex){
@@ -51,13 +51,13 @@ public class SlovariApparat extends ParentPage {
     {
         try {
 
-            actionsWithWebElements.ClickMethod(addApparatButtonXpath);
+            actionsWithWebElements.clickMethod(addApparatButtonXpath);
             log.info("Add push");
-            actionsWithWebElements.InputToTextField(apparatNumberFieldXpath, "121");
+            actionsWithWebElements.inputToTextField(apparatNumberFieldXpath, "121");
             log.info("Number inputted");
-            actionsWithWebElements.InputToTextField(apparatCommentXpath, "Stupitsa");
+            actionsWithWebElements.inputToTextField(apparatCommentXpath, "Stupitsa");
             log.info("Name inputted");
-            actionsWithWebElements.ClickMethod(submitButtonCreate);
+            actionsWithWebElements.clickMethod(submitButtonCreate);
             log.info("Submit clicked");
         }
         catch (Exception ex)

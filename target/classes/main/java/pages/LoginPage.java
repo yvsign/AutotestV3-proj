@@ -30,7 +30,8 @@ public class LoginPage extends ParentPage {
     @FindBy(xpath = "//*[@type='submit']")
     WebElement SubmitButton;
 
-    public LoginPage(WebDriver driver) {
+    public LoginPage(WebDriver driver)
+    {
         super(driver);
     }
 
@@ -44,28 +45,28 @@ public class LoginPage extends ParentPage {
         }
     }
 
-    public void InputLoginName(String login) {
-        actionsWithWebElements.InputToTextField(InputLoginElement, login);
+    public void inputLoginName(String login) {
+        actionsWithWebElements.inputToTextField(InputLoginElement, login);
     }
 
     public void InputPass(String pass) {
         try {
-            actionsWithWebElements.InputToTextField(InputPassElement, pass);
+            actionsWithWebElements.inputToTextField(InputPassElement, pass);
         } catch (Exception ex) {
             log.error("Error while pass" + ex);
         }
     }
 
-    public void ClickSubmitButton() {
-        actionsWithWebElements.ClickMethod(SubmitButton);
+    public void clickSubmitButton() {
+        actionsWithWebElements.clickMethod(SubmitButton);
 
     }
 
     public void LoginUser(String login, String password) {
         OpenPage();
-        InputLoginName(login);
+        inputLoginName(login);
         InputPass(password);
-        ClickSubmitButton();
+        clickSubmitButton();
 
     }
 

@@ -27,11 +27,11 @@ public class HomePage extends ParentPage {
     }
 
     public void clickOnMenuDictionary() {
-        actionsWithWebElements.ClickMethod(menuDictionary);
+        actionsWithWebElements.clickMethod(menuDictionary);
     }
 
     public void clickOnSubMenuApparat() {
-        actionsWithWebElements.ClickMethod(subMenuApparat);
+        actionsWithWebElements.clickMethod(subMenuApparat);
     }
 
 }

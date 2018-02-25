@@ -39,7 +39,7 @@ public class CreateApparat {
     public void CreateApparat() {
         try {
             loginPage.LoginUser("Student", "909090");
-            loginPage.ClickSubmitButton();
+            loginPage.clickSubmitButton();
             slovariApparat.OpenSlovariApparat();
             slovariApparat.CreateApparat();
         }
