@@ -7,45 +7,34 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import pages.HomePage;
 import pages.LoginPage;
 import pages.SlovariApparat;
+import parentTest.ParentTest;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 
-public class ValidLogin {
-    WebDriver driver;
-    Logger log;
-    LoginPage loginPage;
+public class ValidLogin extends  ParentTest {
 
 
-    @Before
-    public void setUp()
-    {
-        File fileFF = new File("./drivers/chromedriver.exe");
-        System.setProperty("webdriver.chrome.driver", fileFF.getAbsolutePath());
-        driver = new ChromeDriver();
-        log = Logger.getLogger(getClass());
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        loginPage = new LoginPage(driver);
-        //homePage = new HomePage(driver);
+    public ValidLogin(String browser) {
+        super(browser);
+
     }
 
     @Test
     public void ValidLogin()
     {
-       loginPage.OpenPage("http://v3.qalight.com.ua/login");
+       loginPage.OpenPage();
        loginPage.InputLoginName("Student");
        loginPage.InputPass("909090");
        loginPage.ClickSubmitButton();
+       checkAcceptanceCriteria("Avatar is not present", homePage.isAvatarPresent(), true);
+       checkAcceptanceCriteria("Title is not expected", homePage.getTitle(), "Учет запчастей" );
 
 
     }
-    //@After
-  //  public void TearDown()
 
-  //  {
-    //    driver.quit();
-  //  }
 }

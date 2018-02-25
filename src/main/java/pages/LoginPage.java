@@ -2,66 +2,74 @@ package pages;
 
 
 import libs.ActionsWithWebElements;
+import libs.ConfigData;
 import org.apache.log4j.Logger;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 
+public class LoginPage extends ParentPage {
 
-public class LoginPage {
-    WebDriver driver;
-    Logger log;
-    ActionsWithWebElements actionsWithWebElements;
 
     By loginNameInputName = By.name("_username");
     String getLoginNameInputXpath = "//*[@name='_username']";
 
-    String passInputId = "password";
+    By passInputId = By.id("password");
     String passInputXpath = ".//*[@id='password']";
 
-    String buttonSubmitType = "submit";
+    By buttonSubmitType = By.xpath("//*[@type='submit']");
     String buttonSubmitXpath = "//*[@type='submit']";
 
-    public LoginPage(WebDriver driver)
-    {
-        this.driver = driver;
-        log = Logger.getLogger(getClass());
-        actionsWithWebElements = new ActionsWithWebElements(driver);
+    @FindBy(name = "_username")
+    WebElement InputLoginElement;
+    @FindBy(id = "password")
+    WebElement InputPassElement;
+    @FindBy(xpath = "//*[@type='submit']")
+    WebElement SubmitButton;
+
+    public LoginPage(WebDriver driver) {
+        super(driver);
     }
 
-    public void OpenPage(String link)
-    {
+    public void OpenPage() {
         try {
-            driver.get(link);
+            driver.get(ConfigData.getCfgValue("base_url")+"/login");
             log.info("Page is opened");
-        }
-        catch (Exception ex){
+        } catch (Exception ex) {
             log.error("Page was not opened" + ex);
+            Assert.fail("Can not open URL");
         }
     }
-    public void InputLoginName(String login)
-    {
-       actionsWithWebElements.InputToTextField(loginNameInputName, login);
+
+    public void InputLoginName(String login) {
+        actionsWithWebElements.InputToTextField(InputLoginElement, login);
     }
-    public void InputPass(String pass)
-    {
+
+    public void InputPass(String pass) {
         try {
-            driver.findElement(By.id(passInputId)).clear();
-            driver.findElement(By.id(passInputId)).sendKeys(pass);
-        }
-        catch (Exception ex){
+            actionsWithWebElements.InputToTextField(InputPassElement, pass);
+        } catch (Exception ex) {
             log.error("Error while pass" + ex);
         }
     }
-    public void ClickSubmitButton()
-    {
-        try {
-            driver.findElement(By.xpath(buttonSubmitXpath)).click();
-            log.info("Clicked =)");
-        } catch (Exception e) {
-            log.error("was not clicked" + e);
-        }
+
+    public void ClickSubmitButton() {
+        actionsWithWebElements.ClickMethod(SubmitButton);
+
     }
 
+    public void LoginUser(String login, String password) {
+        OpenPage();
+        InputLoginName(login);
+        InputPass(password);
+        ClickSubmitButton();
+
+    }
 
 }
+
+
+

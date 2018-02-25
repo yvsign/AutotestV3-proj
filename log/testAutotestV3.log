@@ -63,3 +63,11 @@ Session ID: e5fbda21293619c1798d41e23f85841c
 2018-23-02 21:57:16   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to By.xpath: //input[@id='apparat_apparatComment']
 2018-23-02 21:57:16   INFO [pages.SlovariApparat] : Name inputted
 2018-23-02 21:57:17   INFO [pages.SlovariApparat] : Submit clicked
+2018-24-02 13:23:43   INFO [pages.LoginPage] : Page is opened
+2018-25-02 10:16:54   INFO [pages.LoginPage] : Page is opened
+2018-25-02 10:28:29   INFO [pages.LoginPage] : Page is opened
+2018-25-02 10:28:29  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-25-02 12:12:30   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-25-02 12:12:36   INFO [loginTests.ValidLogin] : Chrome is started
+2018-25-02 12:12:39   INFO [pages.LoginPage] : Page is opened
+2018-25-02 12:12:39   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\ValidLoginValidLogin[0].jpg

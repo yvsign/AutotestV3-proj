@@ -32,15 +32,13 @@ public class CreateApparat {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         slovariApparat = new SlovariApparat(driver);
         loginPage = new LoginPage(driver);
-        validLogin = new ValidLogin();
+        //validLogin = new ValidLogin(driver);
 
     }
     @Test
     public void CreateApparat() {
         try {
-            loginPage.OpenPage("http://v3.qalight.com.ua/login");
-            loginPage.InputLoginName("Student");
-            loginPage.InputPass("909090");
+            loginPage.LoginUser("Student", "909090");
             loginPage.ClickSubmitButton();
             slovariApparat.OpenSlovariApparat();
             slovariApparat.CreateApparat();
