@@ -32,10 +32,10 @@ public class ValidLogin extends  ParentTest {
     {
         loginPage.loginUser("Student", "909090");
 
-       loginPage.openPage();
+      /* loginPage.openPage();
       loginPage.inputLoginName("Student");
        loginPage.inputPass("909090");
-       loginPage.clickSubmitButton();
+       loginPage.clickSubmitButton();*/
        checkAcceptanceCriteria("Avatar is not present", homePage.isAvatarPresent(), true);
        checkAcceptanceCriteria("Title is not expected", homePage.getTitle(), "Учет запчастей" );
 

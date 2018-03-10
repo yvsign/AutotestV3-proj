@@ -53,8 +53,8 @@ public class ActionsWithWebElements {
      * @param element
      * @return
      */
-    public boolean IsElementPresent(WebElement element)
-    {
+    public boolean IsElementPresent(WebElement element) {
+
        return element.isDisplayed() && element.isEnabled();
     }
 

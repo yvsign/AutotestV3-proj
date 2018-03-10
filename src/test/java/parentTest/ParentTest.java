@@ -25,6 +25,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.HomePage;
 import pages.LoginPage;
 import pages.SlovariApparat;
+import pages.Staff;
 
 import java.io.File;
 import java.io.IOException;
@@ -41,6 +42,7 @@ public class ParentTest {
     public LoginPage loginPage;
     public HomePage homePage;
     public SlovariApparat slovariApparat;
+    public Staff staff;
     // public SdelkiListPage sdelkiListPage;
     // public EditSdelkiPage editSdelkiPage;
     // public SparePage sparePage;
@@ -122,7 +124,9 @@ public class ParentTest {
 
         loginPage = new LoginPage(driver);
         slovariApparat = new SlovariApparat(driver);
-        //homePage = new HomePage(driver);
+        homePage = new HomePage(driver);
+        staff = new Staff(driver);
+
         // sdelkiListPage = new SdelkiListPage(driver);
         //editSdelkiPage = new EditSdelkiPage(driver);
         //sparePage = new SparePage(driver);
