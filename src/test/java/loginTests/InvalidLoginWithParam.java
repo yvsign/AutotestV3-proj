@@ -31,7 +31,7 @@ public class InvalidLoginWithParam extends ParentTest{
         }
     @Test
     public void invalidLogin(){
-        loginPage.LoginUser(login,pass);
+        loginPage.loginUser(login,pass);
         checkAcceptanceCriteria("title not match", loginPage.getTitle(), "Account of spare: Авторизация");
     }
 

@@ -13,14 +13,12 @@ public class ParentPage {
     Logger log;
     ActionsWithWebElements actionsWithWebElements;
 
-    @FindBy (tagName = "h1")
-    protected WebElement zagolovok;
 
     public ParentPage(WebDriver driver)
     {
         this.driver = driver;
         log = Logger.getLogger(getClass());
-        ActionsWithWebElements actionsWithWebElements = new ActionsWithWebElements(driver);
+        actionsWithWebElements = new ActionsWithWebElements(driver);
         PageFactory.initElements(driver, this);
     }
 

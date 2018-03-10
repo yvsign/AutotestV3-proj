@@ -6,15 +6,21 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class ActionsWithWebElements {
     WebDriver driver;
     Logger log;
+    WebDriverWait webDriverWait;
 
     public ActionsWithWebElements(WebDriver driver) {
         this.driver = driver;
         log = Logger.getLogger(getClass());
+        webDriverWait = new WebDriverWait(driver, 20);
+
     }
 
     /**
@@ -28,16 +34,18 @@ public class ActionsWithWebElements {
             element.sendKeys(value);
             log.info(value + "  is inputed to " + element);
         } catch (Exception ex) {
-            log.error("Login doesn't input " + ex);
+            log.error("Data wasn't inputed " + ex);
         }
     }
 
     /**
      * This method click to web element
-     * @param button
+     * @param element
      */
-    public void clickMethod(WebElement button) {
-        button.click();
+    public void clickMethod(WebElement element)
+    {
+        webDriverWait.until(ExpectedConditions.visibilityOf(element));
+        element.click();
     }
 
     /**

@@ -26,12 +26,12 @@ public class HomePage extends ParentPage {
         return actionsWithWebElements.IsElementPresent(avatar);
     }
 
-    public void clickOnMenuDictionary() {
+   /* public void clickOnMenuDictionary() {
         actionsWithWebElements.clickMethod(menuDictionary);
     }
 
     public void clickOnSubMenuApparat() {
         actionsWithWebElements.clickMethod(subMenuApparat);
-    }
+    }*/
 
 }

@@ -19,17 +19,22 @@ import java.util.concurrent.TimeUnit;
 public class ValidLogin extends  ParentTest {
 
 
+
     public ValidLogin(String browser) {
         super(browser);
 
+
     }
 
+
     @Test
-    public void ValidLogin()
+    public void validLogin()
     {
-       loginPage.OpenPage();
-       loginPage.inputLoginName("Student");
-       loginPage.InputPass("909090");
+        loginPage.loginUser("Student", "909090");
+
+       loginPage.openPage();
+      loginPage.inputLoginName("Student");
+       loginPage.inputPass("909090");
        loginPage.clickSubmitButton();
        checkAcceptanceCriteria("Avatar is not present", homePage.isAvatarPresent(), true);
        checkAcceptanceCriteria("Title is not expected", homePage.getTitle(), "Учет запчастей" );

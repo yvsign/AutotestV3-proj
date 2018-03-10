@@ -91,3 +91,577 @@ Session ID: e5fbda21293619c1798d41e23f85841c
 2018-25-02 13:10:31   INFO [loginTests.ValidLogin] : Chrome is started
 2018-25-02 13:10:33   INFO [pages.LoginPage] : Page is opened
 2018-25-02 13:10:33   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\ValidLoginValidLogin[0].jpg
+2018-26-02 22:02:37   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:02:44   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:02:45   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:19:18   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:19:23   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:19:24   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:20:20   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:20:25   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:20:26   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:21:58   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:22:03   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:22:04   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:25:24   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:25:29   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:25:29   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:25:50   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:25:54   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:25:55   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:32:01   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:32:36   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:37:28   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:37:32   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:37:33   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:37:33  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 22:37:33  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 22:46:18   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:46:22   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:46:23   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:46:23  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 22:46:23  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 22:52:24   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:52:29   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:52:30   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:52:30  ERROR [pages.LoginPage] : Error while loginjava.lang.NullPointerException
+2018-26-02 22:52:30  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 22:58:50   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 22:58:56   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 22:58:57   INFO [pages.LoginPage] : Page is opened
+2018-26-02 22:58:57  ERROR [pages.LoginPage] : Error while loginjava.lang.NullPointerException
+2018-26-02 22:58:57  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 23:00:14   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 23:00:18   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 23:00:20   INFO [pages.LoginPage] : Page is opened
+2018-26-02 23:00:20  ERROR [pages.LoginPage] : Error while loginjava.lang.NullPointerException
+2018-26-02 23:00:20  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 23:12:23   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 23:12:28   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 23:12:30   INFO [pages.LoginPage] : Page is opened
+2018-26-02 23:12:30  ERROR [pages.LoginPage] : Error while loginjava.lang.NullPointerException
+2018-26-02 23:12:30  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 23:13:42   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 23:13:48   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 23:13:49   INFO [pages.LoginPage] : Page is opened
+2018-26-02 23:13:49  ERROR [pages.LoginPage] : Error while loginjava.lang.NullPointerException
+2018-26-02 23:13:49  ERROR [pages.LoginPage] : Error while passjava.lang.NullPointerException
+2018-26-02 23:27:33   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 23:27:37   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 23:27:38   INFO [pages.LoginPage] : Page is opened
+2018-26-02 23:27:38  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-26-02 23:27:38  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-26-02 23:41:21   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-26-02 23:41:26   INFO [loginTests.ValidLogin] : Chrome is started
+2018-26-02 23:41:27   INFO [pages.LoginPage] : Page is opened
+2018-26-02 23:41:27  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-26-02 23:41:27  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 00:09:38   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 00:09:44   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 00:09:45   INFO [pages.LoginPage] : Page is opened
+2018-27-02 00:09:45  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 00:09:45  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 00:16:33   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 00:16:37   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 00:16:39   INFO [pages.LoginPage] : Page is opened
+2018-27-02 00:16:39  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 00:16:39  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 00:31:37   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 00:31:42   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 00:31:43   INFO [pages.LoginPage] : Page is opened
+2018-27-02 00:31:43  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 00:31:43  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 22:52:17   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 22:52:22   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 22:52:23   INFO [pages.LoginPage] : Page is opened
+2018-27-02 22:52:23  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 22:52:23  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 23:17:02   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 23:17:07   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 23:17:08   INFO [pages.LoginPage] : Page is opened
+2018-27-02 23:17:08  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 23:17:08  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 23:25:07   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 23:25:12   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 23:25:13   INFO [pages.LoginPage] : Page is opened
+2018-27-02 23:25:13  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 23:25:13  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 23:32:38   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 23:32:43   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 23:32:43   INFO [pages.LoginPage] : Page is opened
+2018-27-02 23:32:43  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 23:32:43  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 23:36:09   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 23:36:14   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 23:36:14   INFO [pages.LoginPage] : Page is opened
+2018-27-02 23:36:14  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 23:36:14  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-27-02 23:52:48   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-27-02 23:52:54   INFO [loginTests.ValidLogin] : Chrome is started
+2018-27-02 23:52:55   INFO [pages.LoginPage] : Page is opened
+2018-27-02 23:52:55  ERROR [pages.LoginPage] : Error while login java.lang.NullPointerException
+2018-27-02 23:52:55  ERROR [pages.LoginPage] : Error while pass java.lang.NullPointerException
+2018-28-02 00:36:24   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-28-02 00:36:28   INFO [loginTests.ValidLogin] : Chrome is started
+2018-28-02 00:36:29   INFO [pages.LoginPage] : Page is opened
+2018-28-02 00:42:15   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-28-02 00:42:20   INFO [loginTests.ValidLogin] : Chrome is started
+2018-28-02 00:42:21   INFO [pages.LoginPage] : Page is opened
+2018-28-02 00:42:21   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (37306ae8f119f3818d0dcdbf82258ccb)] -> xpath: //*[@name='_username']]
+2018-28-02 00:42:21   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (37306ae8f119f3818d0dcdbf82258ccb)] -> xpath: //*[@id='password']]
+2018-28-02 00:51:17   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 00:51:22   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 00:51:22   INFO [pages.LoginPage] : Page is opened
+2018-28-02 00:51:23  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.0.108', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.167, webStorageEnabled: true}
+Session ID: 25f3e4ea2b4f77dc1bc5e9dcb1fc6323
+*** Element info: {Using=xpath, value=//*[@name='_username']}
+2018-28-02 00:51:23  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.0.108', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.167, webStorageEnabled: true}
+Session ID: 25f3e4ea2b4f77dc1bc5e9dcb1fc6323
+*** Element info: {Using=xpath, value=//*[@id='password']}
+2018-28-02 00:51:23  ERROR [CreatingEntities.CreateApparat] : Errororg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.0.108', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 64.0.3282.167, webStorageEnabled: true}
+Session ID: 25f3e4ea2b4f77dc1bc5e9dcb1fc6323
+*** Element info: {Using=xpath, value=//button[@type='submit']}
+2018-28-02 00:52:35   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 00:52:40   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 00:52:41   INFO [pages.LoginPage] : Page is opened
+2018-28-02 00:52:41   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (5b8d35487ab8513bb7e05f6f4a366e56)] -> xpath: //*[@name='_username']]
+2018-28-02 00:52:41   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (5b8d35487ab8513bb7e05f6f4a366e56)] -> xpath: //*[@id='password']]
+2018-28-02 00:52:43  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 00:57:05   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 00:57:10   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 00:57:10   INFO [pages.LoginPage] : Page is opened
+2018-28-02 00:57:11   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (10dd090174ffb49739b508ca0ddcf2ee)] -> xpath: //*[@name='_username']]
+2018-28-02 00:57:16   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (10dd090174ffb49739b508ca0ddcf2ee)] -> xpath: //*[@id='password']]
+2018-28-02 00:57:17  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:06:42   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:06:47   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:06:48   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:06:48   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (da17ca07460fcd2d21afb309d30898d9)] -> xpath: //*[@name='_username']]
+2018-28-02 01:06:48   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (da17ca07460fcd2d21afb309d30898d9)] -> xpath: //*[@id='password']]
+2018-28-02 01:06:50  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:11:08   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:11:12   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:11:13   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:11:13   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (3d212bc9eded2bba0a5e48d96219ba90)] -> xpath: //*[@name='_username']]
+2018-28-02 01:11:14   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (3d212bc9eded2bba0a5e48d96219ba90)] -> xpath: //*[@id='password']]
+2018-28-02 01:11:15  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:13:58   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:14:03   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:14:04   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:14:04   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (6c2c564290596e6c2c9def9e253abdd9)] -> xpath: //*[@name='_username']]
+2018-28-02 01:14:04   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (6c2c564290596e6c2c9def9e253abdd9)] -> xpath: //*[@id='password']]
+2018-28-02 01:14:05  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:18:55   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:18:59   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:19:00   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:19:00   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e302f1f9be368c5a2403edbfcebc7f42)] -> xpath: //*[@name='_username']]
+2018-28-02 01:19:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (e302f1f9be368c5a2403edbfcebc7f42)] -> xpath: //*[@id='password']]
+2018-28-02 01:19:02  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:22:17   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:22:22   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:22:23   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:22:23   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (3eccc167156b903e8a8096879765e670)] -> xpath: //*[@name='_username']]
+2018-28-02 01:22:23   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (3eccc167156b903e8a8096879765e670)] -> xpath: //*[@id='password']]
+2018-28-02 01:22:24  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:25:20   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:25:25   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:25:26   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:25:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (c60adb62125b3957c3f48a46c3a1c734)] -> xpath: //*[@name='_username']]
+2018-28-02 01:25:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (c60adb62125b3957c3f48a46c3a1c734)] -> xpath: //*[@id='password']]
+2018-28-02 01:25:27  ERROR [CreatingEntities.CreateApparat] : Errorjava.lang.NullPointerException
+2018-28-02 01:28:29   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-28-02 01:28:33   INFO [loginTests.ValidLogin] : Chrome is started
+2018-28-02 01:28:34   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:28:34   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (6f4f91add004bdf06ff05a0b3297ad9a)] -> xpath: //*[@name='_username']]
+2018-28-02 01:28:34   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (6f4f91add004bdf06ff05a0b3297ad9a)] -> xpath: //*[@id='password']]
+2018-28-02 01:30:30   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-28-02 01:30:35   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-28-02 01:30:36   INFO [pages.LoginPage] : Page is opened
+2018-28-02 01:30:36   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (068a7accbdad959a885618416d3661a0)] -> xpath: //*[@name='_username']]
+2018-28-02 01:30:36   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (068a7accbdad959a885618416d3661a0)] -> xpath: //*[@id='password']]
+2018-28-02 01:30:38   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-28-02 01:30:39   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (068a7accbdad959a885618416d3661a0)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-28-02 01:30:39   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (068a7accbdad959a885618416d3661a0)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-04-03 11:01:36   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-04-03 11:01:40   INFO [loginTests.ValidLogin] : Chrome is started
+2018-04-03 11:01:42   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:01:42   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (2a76e3e6b6624c41fa286476384138f4)] -> xpath: //*[@name='_username']]
+2018-04-03 11:01:42   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (2a76e3e6b6624c41fa286476384138f4)] -> xpath: //*[@id='password']]
+2018-04-03 11:01:43   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:01:45   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:01:46   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:01:47   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (48b7fafe31759290b1020fce343e6a10)] -> xpath: //*[@name='_username']]
+2018-04-03 11:01:47   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (48b7fafe31759290b1020fce343e6a10)] -> xpath: //*[@id='password']]
+2018-04-03 11:01:48   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:01:50   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:01:51   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:01:51   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (126a656d67832c37dd5c9976d31ff0f0)] -> xpath: //*[@name='_username']]
+2018-04-03 11:01:51   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (126a656d67832c37dd5c9976d31ff0f0)] -> xpath: //*[@id='password']]
+2018-04-03 11:17:23   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-04-03 11:17:28   INFO [loginTests.ValidLogin] : Chrome is started
+2018-04-03 11:17:29   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:17:29   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d9dcaab9ffa58cf904e5f969adf79f43)] -> xpath: //*[@name='_username']]
+2018-04-03 11:17:30   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d9dcaab9ffa58cf904e5f969adf79f43)] -> xpath: //*[@id='password']]
+2018-04-03 11:17:31   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:17:31   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d9dcaab9ffa58cf904e5f969adf79f43)] -> xpath: //*[@name='_username']]
+2018-04-03 11:17:31   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d9dcaab9ffa58cf904e5f969adf79f43)] -> xpath: //*[@id='password']]
+2018-04-03 11:17:32   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:17:35   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:17:36   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:17:36   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e94d2f66f36bd25a61e2cdd65b612265)] -> xpath: //*[@name='_username']]
+2018-04-03 11:17:36   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (e94d2f66f36bd25a61e2cdd65b612265)] -> xpath: //*[@id='password']]
+2018-04-03 11:17:37   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-04-03 11:17:37   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:17:40   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:17:41   INFO [pages.LoginPage] : Page is opened
+2018-04-03 11:17:41   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (a4cdd7bedd3d8ec7387967d0e1a1a59b)] -> xpath: //*[@name='_username']]
+2018-04-03 11:17:42   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (a4cdd7bedd3d8ec7387967d0e1a1a59b)] -> xpath: //*[@id='password']]
+2018-04-03 11:17:43   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-04-03 12:30:56   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-04-03 12:31:01   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-04-03 12:33:55   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-04-03 12:34:00   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-04-03 12:34:01   INFO [pages.LoginPage] : Page is opened
+2018-04-03 12:34:02   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (4a2728b2df70b5609d22dbec27f8a703)] -> xpath: //*[@name='_username']]
+2018-04-03 12:34:02   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (4a2728b2df70b5609d22dbec27f8a703)] -> xpath: //*[@id='password']]
+2018-10-03 11:21:55   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:22:00   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:22:01   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:22:01  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 800020a9dd7170a6b65dffa8b94752f9
+2018-10-03 11:22:02  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 800020a9dd7170a6b65dffa8b94752f9
+2018-10-03 11:22:02   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:22:05   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:22:06   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:22:06  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: c15416d7919364e7cac05c1147f8c39d
+2018-10-03 11:22:06  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: c15416d7919364e7cac05c1147f8c39d
+2018-10-03 11:22:07   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:22:09   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:22:10   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:22:10  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: d6d9c65330504494de93bb25c25cb054
+2018-10-03 11:22:10  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: d6d9c65330504494de93bb25c25cb054
+2018-10-03 11:22:11   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:22:13   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:22:14   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:22:14  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: c74c7541fc461bec0a298e20363b2336
+2018-10-03 11:22:14  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: c74c7541fc461bec0a298e20363b2336
+2018-10-03 11:22:15   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:22:19   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:22:21   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:22:21  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: b4701ff5b20845bc100ca211faf2a3c9
+2018-10-03 11:22:21  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: b4701ff5b20845bc100ca211faf2a3c9
+2018-10-03 11:30:25   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:30:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:30:31   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:30:31  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ffab1b92c8c1711546b6f03399fd1737
+2018-10-03 11:30:31  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ffab1b92c8c1711546b6f03399fd1737
+2018-10-03 11:30:32   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:30:34   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:30:35   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:30:35  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: be8f174cc168d2bc8defdeb2125da65c
+2018-10-03 11:30:35  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: be8f174cc168d2bc8defdeb2125da65c
+2018-10-03 11:30:36   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:30:38   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:30:39   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:30:39  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: f92ba8df2eafb75260477791ce6e5377
+2018-10-03 11:30:40  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: f92ba8df2eafb75260477791ce6e5377
+2018-10-03 11:30:40   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:30:43   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:30:43   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:30:44  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 9ba15e1a1cf4962a6d4500575fa22e87
+2018-10-03 11:30:44  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 9ba15e1a1cf4962a6d4500575fa22e87
+2018-10-03 11:30:44   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-10-03 11:30:47   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-10-03 11:30:48   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:30:48  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 81fffb07784cd9f62683ab98acf8c6e4
+2018-10-03 11:30:48  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 81fffb07784cd9f62683ab98acf8c6e4
+2018-10-03 11:32:37   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-10-03 11:32:41   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-10-03 11:32:42   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:32:43  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 7d22377a9775e11716c814945a4f0e24
+2018-10-03 11:32:43  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 7d22377a9775e11716c814945a4f0e24
+2018-10-03 11:33:40   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-10-03 11:33:45   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-10-03 11:33:46   INFO [pages.LoginPage] : Page is opened
+2018-10-03 11:33:46  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 0804cec9ae795c95519f689f09722f8a
+2018-10-03 11:33:46  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 0804cec9ae795c95519f689f09722f8a
+2018-10-03 12:12:31   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:12:32   INFO [TestDB.TestDataBase] : [2, 77, radulenkoTest, pass]
+2018-10-03 12:12:32   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 258, ElenaEliseeva, pass], [2, 258, ElenaEliseeva, pass], [3, 258, ElenaEliseeva, pass], [4, 258, ElenaEliseeva, pass], [5, 258, ElenaEliseeva, pass]]
+2018-10-03 12:12:32   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 258, ElenaEliseeva, pass], [2, 258, ElenaEliseeva, pass], [3, 258, ElenaEliseeva, pass], [4, 258, ElenaEliseeva, pass], [5, 258, ElenaEliseeva, pass]]
+2018-10-03 12:14:08   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:14:08   INFO [TestDB.TestDataBase] : [1, 2, test, pass]
+2018-10-03 12:14:08   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass]]
+2018-10-03 12:14:08   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass]]
+2018-10-03 12:14:23   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:14:24   INFO [TestDB.TestDataBase] : [, idNumber, login, passWord]
+2018-10-03 12:14:24   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass]]
+2018-10-03 12:14:24   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass]]
+2018-10-03 12:14:50   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:14:50   INFO [TestDB.TestDataBase] : [3, 27, oliynikTest, pass]
+2018-10-03 12:14:50   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass]]
+2018-10-03 12:14:50   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass]]
+2018-10-03 12:15:13   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:15:52   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:15:52   INFO [TestDB.TestDataBase] : [175, 300, SergiiIvashko, pass]
+2018-10-03 12:15:52   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass]]
+2018-10-03 12:15:52   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass]]
+2018-10-03 12:16:26   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-10-03 12:16:27   INFO [TestDB.TestDataBase] : [174, 300, sviridenko, pass]
+2018-10-03 12:16:27   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass]]
+2018-10-03 12:16:27   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass]]
+2018-10-03 12:22:26   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-10-03 12:22:31   INFO [loginTests.ValidLogin] : Chrome is started
+2018-10-03 12:22:32   INFO [pages.LoginPage] : Page is opened
+2018-10-03 12:22:32  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ec699190abb8ec5ab59b9c3618208ead
+2018-10-03 12:22:32  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ec699190abb8ec5ab59b9c3618208ead
+2018-10-03 12:22:34   INFO [pages.LoginPage] : Page is opened
+2018-10-03 12:22:34  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ec699190abb8ec5ab59b9c3618208ead
+2018-10-03 12:22:34  ERROR [libs.ActionsWithWebElements] : Data wasn't inputed org.openqa.selenium.WebDriverException: unknown error: call function result missing 'value'
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: ec699190abb8ec5ab59b9c3618208ead

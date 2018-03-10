@@ -11,9 +11,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 
-public class LoginPage extends ParentPage {
+    public class LoginPage extends ParentPage {
 
 
+
+/*
     By loginNameInputName = By.name("_username");
     String getLoginNameInputXpath = "//*[@name='_username']";
 
@@ -21,21 +23,21 @@ public class LoginPage extends ParentPage {
     String passInputXpath = ".//*[@id='password']";
 
     By buttonSubmitType = By.xpath("//*[@type='submit']");
-    String buttonSubmitXpath = "//*[@type='submit']";
+    String buttonSubmitXpath = "//*[@type='submit']";*/
 
-    @FindBy(name = "_username")
-    WebElement InputLoginElement;
-    @FindBy(id = "password")
-    WebElement InputPassElement;
-    @FindBy(xpath = "//*[@type='submit']")
-    WebElement SubmitButton;
+    @FindBy(xpath = "//*[@name='_username']")
+     WebElement inputLoginElement;
+    @FindBy(xpath = "//*[@id='password']")
+     WebElement inputPassElement;
+    @FindBy(xpath = "//button[@type='submit']")
+     WebElement submitButtonElement;
 
     public LoginPage(WebDriver driver)
     {
         super(driver);
     }
 
-    public void OpenPage() {
+    public void openPage() {
         try {
             driver.get(ConfigData.getCfgValue("base_url")+"/login");
             log.info("Page is opened");
@@ -45,27 +47,29 @@ public class LoginPage extends ParentPage {
         }
     }
 
-    public void inputLoginName(String login) {
-        actionsWithWebElements.inputToTextField(InputLoginElement, login);
+    public void inputLoginName(String login)
+    {
+
+        actionsWithWebElements.inputToTextField(inputLoginElement, login);
+
+
     }
 
-    public void InputPass(String pass) {
-        try {
-            actionsWithWebElements.inputToTextField(InputPassElement, pass);
-        } catch (Exception ex) {
-            log.error("Error while pass" + ex);
-        }
+    public void inputPass(String pass) {
+
+            actionsWithWebElements.inputToTextField(inputPassElement, pass);
+
     }
 
     public void clickSubmitButton() {
-        actionsWithWebElements.clickMethod(SubmitButton);
+       actionsWithWebElements.clickMethod(submitButtonElement);
 
     }
 
-    public void LoginUser(String login, String password) {
-        OpenPage();
+    public void loginUser(String login, String password) {
+        openPage();
         inputLoginName(login);
-        InputPass(password);
+        inputPass(password);
         clickSubmitButton();
 
     }

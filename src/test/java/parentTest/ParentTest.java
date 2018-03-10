@@ -2,6 +2,8 @@ package parentTest;
 
 //import Pages.*;
 //import libs.ExcelDriver;
+import CreatingEntities.CreateApparat;
+import libs.ExcelDriver;
 import libs.Utils;
 import org.apache.log4j.Logger;
 import org.junit.After;
@@ -22,6 +24,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 //import pages.EditApparatPage;
 import pages.HomePage;
 import pages.LoginPage;
+import pages.SlovariApparat;
 
 import java.io.File;
 import java.io.IOException;
@@ -37,20 +40,21 @@ public class ParentTest {
     WebDriver driver;
     public LoginPage loginPage;
     public HomePage homePage;
+    public SlovariApparat slovariApparat;
     // public SdelkiListPage sdelkiListPage;
     // public EditSdelkiPage editSdelkiPage;
     // public SparePage sparePage;
     // public EditNewSparePage editNewSparePage;
-   // public ApparatPage apparatPage;
-   // public EditApparatPage editApparatPage;
+    // public ApparatPage apparatPage;
+    // public EditApparatPage editApparatPage;
     //public TypeSdelkiPage typeSdelkiPage;
     //public EditTypeSdelkiPage editTypeSdelkiPage;
     private Utils utils = new Utils();
     private boolean isTestPass = false;
     private String pathToScreenShot;
     private String browser;
-    Logger log;
-    //public ExcelDriver excelDriver;
+    public Logger log;
+    public ExcelDriver excelDriver;
 
     @Rule
     public TestName testName = new TestName();
@@ -82,8 +86,8 @@ public class ParentTest {
 
     @Before
     public void setUp() {
-        pathToScreenShot = "..\\ClassWork\\target\\screenshot\\" + this.getClass().getPackage().getName() + "\\" + this.getClass().getSimpleName()
-                + this.testName.getMethodName() + ".jpg";
+        pathToScreenShot = "..\\AutotestV3\\target\\screenshot\\" + this.getClass().getPackage().getName() + "\\" + this.getClass().getSimpleName()
+         + this.testName.getMethodName() + ".jpg";
 
         if ("chrome".equals(browser)) {
             log.info("Chrome will be started");
@@ -91,7 +95,7 @@ public class ParentTest {
             System.setProperty("webdriver.chrome.driver", fileFF.getAbsolutePath());
             driver = new ChromeDriver();
             log.info("Chrome is started");
-        }else if ("iedriver".equals(browser)) {
+        } else if ("iedriver".equals(browser)) {
             log.info("IE will be started");
             File file1 = new File("./drivers/IEDriverServer.exe");
             System.setProperty("webdriver.ie.driver", file1.getAbsolutePath());
@@ -114,12 +118,11 @@ public class ParentTest {
         }
 
 
-
-
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         loginPage = new LoginPage(driver);
-        homePage = new HomePage(driver);
+        slovariApparat = new SlovariApparat(driver);
+        //homePage = new HomePage(driver);
         // sdelkiListPage = new SdelkiListPage(driver);
         //editSdelkiPage = new EditSdelkiPage(driver);
         //sparePage = new SparePage(driver);
@@ -129,34 +132,34 @@ public class ParentTest {
         // typeSdelkiPage = new TypeSdelkiPage(driver);
         // editTypeSdelkiPage = new EditTypeSdelkiPage(driver);
 
-        //excelDriver = new ExcelDriver();
+        excelDriver = new ExcelDriver();
 
 
     }
 
-    @After
-    public void tearDown() {
-        if (!isTestPass){
+    //@After
+   //public void tearDown() {
+      // if (!isTestPass) {
+       //    utils.screenShot(pathToScreenShot, driver);
+     //  }
+      //  driver.quit();
+  //  }
+    protected void checkAcceptanceCriteria(String message, boolean actual, boolean expected) {
+        if (actual != expected) {
             utils.screenShot(pathToScreenShot, driver);
-        }
-        driver.quit();
-    }
-
-    protected void checkAcceptanceCriteria(String message, boolean actual, boolean expected){
-        if (actual != expected){
-            utils.screenShot(pathToScreenShot, driver);
 
         }
-        Assert.assertThat(message, actual, is (expected));
+        Assert.assertThat(message, actual, is(expected));
         isTestPass = true;
     }
 
-    protected void checkAcceptanceCriteria(String message, String actual, String expected){
+    protected void checkAcceptanceCriteria(String message, String actual, String expected) {
         if (!actual.equals(expected)) {
             utils.screenShot(pathToScreenShot, driver);
         }
-        Assert.assertThat(message, actual, is (expected));
+        Assert.assertThat(message, actual, is(expected));
         isTestPass = true;
     }
-
 }
+
+

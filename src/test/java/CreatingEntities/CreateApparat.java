@@ -9,50 +9,28 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.LoginPage;
 import pages.SlovariApparat;
+import parentTest.ParentTest;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 
-public class CreateApparat {
-    WebDriver driver;
-    Logger log;
-    SlovariApparat slovariApparat;
-    LoginPage loginPage;
-    ValidLogin validLogin;
+public class CreateApparat extends ParentTest {
 
-
-    @Before
-
-    public void setUp()
-    {
-        File fileFF = new File("./drivers/chromedriver.exe");
-        System.setProperty("webdriver.chrome.driver", fileFF.getAbsolutePath());
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        slovariApparat = new SlovariApparat(driver);
-        loginPage = new LoginPage(driver);
-        //validLogin = new ValidLogin(driver);
-
+    public CreateApparat(String browser) {
+        super(browser);
     }
+
     @Test
-    public void CreateApparat() {
+    public void createApparat() {
         try {
-            loginPage.LoginUser("Student", "909090");
-            loginPage.clickSubmitButton();
-            slovariApparat.OpenSlovariApparat();
-            slovariApparat.CreateApparat();
-        }
-        catch (Exception ex)
-        {
+            loginPage.loginUser("Student", "909090");
+            slovariApparat.openSlovariApparat();
+            log.info("Slovari was chosen");
+            slovariApparat.createApparat("121", "Stupitsa");
+        } catch (Exception ex) {
             log.error("Error" + ex);
         }
 
-    }
-    @After
-
-    public void TearDown()
-    {
-        driver.quit();
     }
 }
