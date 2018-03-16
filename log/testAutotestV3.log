@@ -1031,3 +1031,615 @@ Session ID: 0c67f73094275e504f73b8fcef4ea1c9
 2018-10-03 17:48:58   INFO [libs.ActionsWithWebElements] : РРІР°РЅ  is inputed to [[ChromeDriver: chrome on XP (721a29fce6f83790ad443e165b7c7f9b)] -> xpath: //*[@id='workers_workerName']]
 2018-10-03 17:48:58   INFO [libs.ActionsWithWebElements] : Р’Р°СЃРёР»СЊРµРІРёС‡  is inputed to [[ChromeDriver: chrome on XP (721a29fce6f83790ad443e165b7c7f9b)] -> xpath: //*[@id='workers_workerMiddleName']]
 2018-10-03 17:48:58   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (721a29fce6f83790ad443e165b7c7f9b)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 11:10:38   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:10:38   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:10:38   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:10:43   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:10:43   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:10:43   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:10:46   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:10:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (51f40f80f2aa57757dd21c2e135a3a70)] -> xpath: //*[@name='_username']]
+2018-11-03 11:10:47   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (51f40f80f2aa57757dd21c2e135a3a70)] -> xpath: //*[@id='password']]
+2018-11-03 11:10:47   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:10:47   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:10:47   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d6386f396b7bc985d0741feceacb2f94)] -> xpath: //*[@name='_username']]
+2018-11-03 11:10:48   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (d8d3965cfa74d4bce1eedf04852f38d3)] -> xpath: //*[@name='_username']]
+2018-11-03 11:10:48   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d6386f396b7bc985d0741feceacb2f94)] -> xpath: //*[@id='password']]
+2018-11-03 11:10:48   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:10:48   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d8d3965cfa74d4bce1eedf04852f38d3)] -> xpath: //*[@id='password']]
+2018-11-03 11:10:49   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:10:50   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:17:25   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:17:25   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:17:25   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:17:30   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:17:30   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:17:30   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:17:31   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:17:31   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:17:32   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:17:32   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (b3872f879c9f97f05f3a88a6a437278e)] -> xpath: //*[@name='_username']]
+2018-11-03 11:17:32   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (35eb3a512539dad48291bab109e7ff37)] -> xpath: //*[@name='_username']]
+2018-11-03 11:17:32   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (b3872f879c9f97f05f3a88a6a437278e)] -> xpath: //*[@id='password']]
+2018-11-03 11:17:32   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (35eb3a512539dad48291bab109e7ff37)] -> xpath: //*[@id='password']]
+2018-11-03 11:17:33   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:17:34   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:17:37   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d7c97e4db0674424e58520741e4c0a35)] -> xpath: //*[@name='_username']]
+2018-11-03 11:17:37   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (d7c97e4db0674424e58520741e4c0a35)] -> xpath: //*[@id='password']]
+2018-11-03 11:17:38   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:19:44   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:19:44   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:19:44   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:19:48   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:19:48   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:19:48   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:19:50   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:19:50   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (38d54db4537c4247e3b243c0d1c91e0b)] -> xpath: //*[@name='_username']]
+2018-11-03 11:19:50   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (38d54db4537c4247e3b243c0d1c91e0b)] -> xpath: //*[@id='password']]
+2018-11-03 11:19:50   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:19:50   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (936be4aafbbf07e8c2f777ecd63c45e4)] -> xpath: //*[@name='_username']]
+2018-11-03 11:19:51   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (936be4aafbbf07e8c2f777ecd63c45e4)] -> xpath: //*[@id='password']]
+2018-11-03 11:19:52   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:19:52   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (29213de0784ec496594debc6a124c071)] -> xpath: //*[@name='_username']]
+2018-11-03 11:19:52   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:19:52   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (29213de0784ec496594debc6a124c071)] -> xpath: //*[@id='password']]
+2018-11-03 11:19:52   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:19:54   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:21:43   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:21:48   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:21:49   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:21:49   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (84c91fee58488af07964ea83b8fc225d)] -> xpath: //*[@name='_username']]
+2018-11-03 11:21:49   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (84c91fee58488af07964ea83b8fc225d)] -> xpath: //*[@id='password']]
+2018-11-03 11:21:51   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:21:51   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:21:53   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:21:54   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:21:54   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (cd2de8c7419efa267bd08742181a671d)] -> xpath: //*[@name='_username']]
+2018-11-03 11:21:55   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (cd2de8c7419efa267bd08742181a671d)] -> xpath: //*[@id='password']]
+2018-11-03 11:21:56   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:21:56   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:21:59   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:22:00   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:22:00   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (7978f58b84c95d2c6be00cd0efcfa343)] -> xpath: //*[@name='_username']]
+2018-11-03 11:22:00   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (7978f58b84c95d2c6be00cd0efcfa343)] -> xpath: //*[@id='password']]
+2018-11-03 11:22:01   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:23:05   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:23:10   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:23:11   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:23:11   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (be1495cae9430c4945ccfc44d9a99fda)] -> xpath: //*[@name='_username']]
+2018-11-03 11:23:11   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (be1495cae9430c4945ccfc44d9a99fda)] -> xpath: //*[@id='password']]
+2018-11-03 11:23:13   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:23:13   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:23:15   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:23:16  ERROR [pages.LoginPage] : Page was not openedorg.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=65.0.3325.146)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SIGN-PC', ip: '192.168.1.51', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\Sign\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.146, webStorageEnabled: true}
+Session ID: 3c99eabdcb0a1f9a6a6fb78813c5789e
+2018-11-03 11:23:16   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:23:19   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:23:20   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:23:20   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (ccf9a9ea0fa233b3790bcbda057246ee)] -> xpath: //*[@name='_username']]
+2018-11-03 11:23:20   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (ccf9a9ea0fa233b3790bcbda057246ee)] -> xpath: //*[@id='password']]
+2018-11-03 11:23:21   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:24:10   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:24:15   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:24:16   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:24:16   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (146896a18436ca5dc01970f4c0fe6825)] -> xpath: //*[@name='_username']]
+2018-11-03 11:24:16   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (146896a18436ca5dc01970f4c0fe6825)] -> xpath: //*[@id='password']]
+2018-11-03 11:24:18   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:24:18   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:24:20   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:24:21   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:24:21   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (1fa6af3b0743e7526bd8ba69c0416278)] -> xpath: //*[@name='_username']]
+2018-11-03 11:24:21   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (1fa6af3b0743e7526bd8ba69c0416278)] -> xpath: //*[@id='password']]
+2018-11-03 11:24:23   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:24:23   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:24:25   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:24:26   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:24:26   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (70b4bf8326c94870fec509236cc0d3d2)] -> xpath: //*[@name='_username']]
+2018-11-03 11:24:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (70b4bf8326c94870fec509236cc0d3d2)] -> xpath: //*[@id='password']]
+2018-11-03 11:24:27   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:26:23   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:26:28   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:26:29   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:26:29   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (a26c4be884f365067e32b9bd86164652)] -> xpath: //*[@name='_username']]
+2018-11-03 11:26:29   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (a26c4be884f365067e32b9bd86164652)] -> xpath: //*[@id='password']]
+2018-11-03 11:26:31   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:26:31   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:26:34   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:26:34   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:26:35   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (bb591b898ff5d6216105be339dedb780)] -> xpath: //*[@name='_username']]
+2018-11-03 11:26:35   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (bb591b898ff5d6216105be339dedb780)] -> xpath: //*[@id='password']]
+2018-11-03 11:26:36   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[0].jpg
+2018-11-03 11:26:36   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:26:39   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:26:40   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:26:40   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (a8aad4e4a77592bcc79c6ac66cb67977)] -> xpath: //*[@name='_username']]
+2018-11-03 11:26:40   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (a8aad4e4a77592bcc79c6ac66cb67977)] -> xpath: //*[@id='password']]
+2018-11-03 11:26:41   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-11-03 11:27:25   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:27:30   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:27:31   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:27:31   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (46caeed376beb859cfe03bdefa5bfca2)] -> xpath: //*[@name='_username']]
+2018-11-03 11:27:31   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (46caeed376beb859cfe03bdefa5bfca2)] -> xpath: //*[@id='password']]
+2018-11-03 11:27:33   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:28:27   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:28:32   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:28:33   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:28:33   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0c35e2a44085c2bd20efafafd434a92f)] -> xpath: //*[@name='_username']]
+2018-11-03 11:28:33   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0c35e2a44085c2bd20efafafd434a92f)] -> xpath: //*[@id='password']]
+2018-11-03 11:28:35   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-11-03 11:31:18   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:31:25   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:31:26   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:31:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (75564e9a146090eb0b8e00e8c8b7b6b6)] -> xpath: //*[@name='_username']]
+2018-11-03 11:31:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (75564e9a146090eb0b8e00e8c8b7b6b6)] -> xpath: //*[@id='password']]
+2018-11-03 11:31:57   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:32:02   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:32:03   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:03   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (76e2b56e0b35bb1262311b979d146cf5)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:04   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (76e2b56e0b35bb1262311b979d146cf5)] -> xpath: //*[@id='password']]
+2018-11-03 11:32:05   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:32:08   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:32:09   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:09   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (ba2f9b5d7fa9f0f62a4ec2af4dbe23d9)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:09   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (ba2f9b5d7fa9f0f62a4ec2af4dbe23d9)] -> xpath: //*[@id='password']]
+2018-11-03 11:32:10   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:32:13   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:32:15   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:15   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (aa75685297144f18fb01ffe76353ddc1)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:16   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (aa75685297144f18fb01ffe76353ddc1)] -> xpath: //*[@id='password']]
+2018-11-03 11:32:48   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:32:48   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:32:48   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:32:53   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:32:53   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:32:53   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:32:56   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:56   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (3bb193a82fc5d662e47ab09ab9c1a525)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:56   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (3bb193a82fc5d662e47ab09ab9c1a525)] -> xpath: //*[@id='password']]
+2018-11-03 11:32:56   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:56   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:32:57   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (001fdb9276f11d89e980a67fb80bcadd)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:57   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (d4618d47eedac199b6f157a4cddf4d2a)] -> xpath: //*[@name='_username']]
+2018-11-03 11:32:57   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (001fdb9276f11d89e980a67fb80bcadd)] -> xpath: //*[@id='password']]
+2018-11-03 11:32:57   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d4618d47eedac199b6f157a4cddf4d2a)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:26   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:50:26   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:50:26   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-11-03 11:50:26   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:50:26   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-11-03 11:50:26   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-11-03 11:50:27   INFO [TestDB.TestDataBase] : [174, 300, sviridenko, pass]
+2018-11-03 11:50:27   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass]]
+2018-11-03 11:50:27   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass]]
+2018-11-03 11:50:27   INFO [CreatingEntities.CreateWorker] : Chrome will be started
+2018-11-03 11:50:35   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-11-03 11:50:35   INFO [CreatingEntities.CreateWorker] : Chrome is started
+2018-11-03 11:50:35   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:50:35   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-11-03 11:50:35   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:50:35   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:50:39   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:39   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:39   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:39   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:40   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:40   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (5bb84f184cb64f01d0003502a7af88d1)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d5d9614ffcb51f949cbfec69816ef49a)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (475620a255e4ea9197319f9b100d7b8c)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (18ebc11e4be4efb980e5fa95b1b80749)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (3bc4bb43c5efbb7960632e611f5d687d)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:41   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (475620a255e4ea9197319f9b100d7b8c)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:41   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (5bb84f184cb64f01d0003502a7af88d1)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:41   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (d5d9614ffcb51f949cbfec69816ef49a)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:41   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (18ebc11e4be4efb980e5fa95b1b80749)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:41   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (3bc4bb43c5efbb7960632e611f5d687d)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:42   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:42   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-11-03 11:50:43   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[0].jpg
+2018-11-03 11:50:43   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:50:43   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:50:44   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:50:44   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:50:44   INFO [CreatingEntities.CreateWorker] : login success
+2018-11-03 11:50:45   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:50:47   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:50:47   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:50:47   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:50:48   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:50:49   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:50:50   INFO [CreatingEntities.CreateWorker] : SlovariWorkers was opened
+2018-11-03 11:50:50   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-11-03 11:50:51   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:52   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:52   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:53   INFO [libs.ActionsWithWebElements] : dfsjlfsk  is inputed to [[ChromeDriver: chrome on XP (4672039473116ebc06b70bffe5a78d57)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:53   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:54   INFO [libs.ActionsWithWebElements] : 650  is inputed to [[ChromeDriver: chrome on XP (4672039473116ebc06b70bffe5a78d57)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:54   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:50:54   INFO [libs.ActionsWithWebElements] : студент  is inputed to [[ChromeDriver: chrome on XP (1850a923171f882ff360adcd6016c115)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:54   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (2a0716b5bb3d977d3ab3d861fbeed19b)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:55   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (f1c70b929f20d620503fcca40095a025)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:55   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (3bc4bb43c5efbb7960632e611f5d687d)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-11-03 11:50:56   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (f1c70b929f20d620503fcca40095a025)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:56   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (3bc4bb43c5efbb7960632e611f5d687d)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-11-03 11:50:56   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[3].jpg
+2018-11-03 11:50:56   INFO [libs.ActionsWithWebElements] : 9090+  is inputed to [[ChromeDriver: chrome on XP (1850a923171f882ff360adcd6016c115)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:56   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (2a0716b5bb3d977d3ab3d861fbeed19b)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:57   INFO [libs.ActionsWithWebElements] : Грозный  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //input[@id='workers_workerSurname']]
+2018-11-03 11:50:57   INFO [libs.ActionsWithWebElements] : Student123  is inputed to [[ChromeDriver: chrome on XP (35f437571cd5a0ca8c001552d0e41707)] -> xpath: //*[@name='_username']]
+2018-11-03 11:50:57   INFO [libs.ActionsWithWebElements] : Иван  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //*[@id='workers_workerName']]
+2018-11-03 11:50:57   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (35f437571cd5a0ca8c001552d0e41707)] -> xpath: //*[@id='password']]
+2018-11-03 11:50:58   INFO [libs.ActionsWithWebElements] : Васильевич  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //*[@id='workers_workerMiddleName']]
+2018-11-03 11:50:58   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[4].jpg
+2018-11-03 11:50:58   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (82a5247af5f5a29d8fa2189b9b35950a)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 11:50:59   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[1].jpg
+2018-11-03 11:50:59   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateApparatcreateApparat[0].jpg
+2018-11-03 11:50:59   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[2].jpg
+2018-11-03 11:51:00   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateWorkercreateWorker[0].jpg
+2018-11-03 11:58:29   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 11:58:29   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:58:29   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:58:29   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 11:58:29   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-11-03 11:58:29   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-11-03 11:58:30   INFO [TestDB.TestDataBase] : [174, 300, sviridenko, pass]
+2018-11-03 11:58:30   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass]]
+2018-11-03 11:58:30   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass]]
+2018-11-03 11:58:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:58:36   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 11:58:37   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:58:37   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:58:37   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:58:39   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-11-03 11:58:39   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 11:58:42   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:43   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:43   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:44   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:44   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:44   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:44   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (887b35f5c770e89ffb1a43a850ef8409)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:45   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (7a311ec41beb99d2a406e1e8363e4b73)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:45   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (887b35f5c770e89ffb1a43a850ef8409)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:45   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d6e1ad7bb295024e17dd1feec5e14a3b)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:45   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (9923d357678c0be16c04d7285bef1a8c)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:46   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (7a311ec41beb99d2a406e1e8363e4b73)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (4b9c0dae4ae880d668a4f1e5a954a4a3)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:47   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (9923d357678c0be16c04d7285bef1a8c)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:47   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (1c8f61054e2138bef6f0438189d267e6)] -> xpath: //*[@name='_username']]
+2018-11-03 11:58:47   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d6e1ad7bb295024e17dd1feec5e14a3b)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:47   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (4b9c0dae4ae880d668a4f1e5a954a4a3)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:47   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-11-03 11:58:48   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[0].jpg
+2018-11-03 11:58:49   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:58:49   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:58:49   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 11:58:50   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (1c8f61054e2138bef6f0438189d267e6)] -> xpath: //*[@id='password']]
+2018-11-03 11:58:50   INFO [CreatingEntities.CreateWorker] : Chrome will be started
+2018-11-03 11:58:50   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-11-03 11:58:54   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[1].jpg
+2018-11-03 11:58:55   INFO [CreatingEntities.CreateWorker] : Chrome is started
+2018-11-03 11:58:55   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-11-03 11:58:55   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:58:55   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:58:56   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 11:58:58   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:58   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:58   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:58:59   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:59:00   INFO [pages.LoginPage] : Page is opened
+2018-11-03 11:59:00   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //*[@name='_username']]
+2018-11-03 11:59:00   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0fcc261f0eadd6553b2a3ad5e27ee2f6)] -> xpath: //*[@name='_username']]
+2018-11-03 11:59:00   INFO [libs.ActionsWithWebElements] : Student123  is inputed to [[ChromeDriver: chrome on XP (4b9cc1ecf0c6f688a8270f49ec31c7e4)] -> xpath: //*[@name='_username']]
+2018-11-03 11:59:00   INFO [libs.ActionsWithWebElements] : студент  is inputed to [[ChromeDriver: chrome on XP (72fcb3b3c167590b1a201f0f0b4710ff)] -> xpath: //*[@name='_username']]
+2018-11-03 11:59:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //*[@id='password']]
+2018-11-03 11:59:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0fcc261f0eadd6553b2a3ad5e27ee2f6)] -> xpath: //*[@id='password']]
+2018-11-03 11:59:01   INFO [libs.ActionsWithWebElements] : dfsjlfsk  is inputed to [[ChromeDriver: chrome on XP (0de7dc73bc4e0c01a2941c28a28d7582)] -> xpath: //*[@name='_username']]
+2018-11-03 11:59:01   INFO [libs.ActionsWithWebElements] : 9090+  is inputed to [[ChromeDriver: chrome on XP (72fcb3b3c167590b1a201f0f0b4710ff)] -> xpath: //*[@id='password']]
+2018-11-03 11:59:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (4b9cc1ecf0c6f688a8270f49ec31c7e4)] -> xpath: //*[@id='password']]
+2018-11-03 11:59:02   INFO [libs.ActionsWithWebElements] : 650  is inputed to [[ChromeDriver: chrome on XP (0de7dc73bc4e0c01a2941c28a28d7582)] -> xpath: //*[@id='password']]
+2018-11-03 11:59:03   INFO [CreatingEntities.CreateWorker] : login success
+2018-11-03 11:59:05   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[2].jpg
+2018-11-03 11:59:05   INFO [CreatingEntities.CreateWorker] : SlovariWorkers was opened
+2018-11-03 11:59:06   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[4].jpg
+2018-11-03 11:59:06   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[3].jpg
+2018-11-03 11:59:07   INFO [libs.ActionsWithWebElements] : Грозный  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //input[@id='workers_workerSurname']]
+2018-11-03 11:59:07   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-11-03 11:59:07   INFO [libs.ActionsWithWebElements] : Иван  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //*[@id='workers_workerName']]
+2018-11-03 11:59:07   INFO [libs.ActionsWithWebElements] : Васильевич  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //*[@id='workers_workerMiddleName']]
+2018-11-03 11:59:08   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (0cdf625fa9379fc4c579638d23e387e3)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 11:59:08   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (0fcc261f0eadd6553b2a3ad5e27ee2f6)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-11-03 11:59:08   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (0fcc261f0eadd6553b2a3ad5e27ee2f6)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-11-03 11:59:09   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateWorkercreateWorker[0].jpg
+2018-11-03 11:59:10   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateApparatcreateApparat[0].jpg
+2018-11-03 12:05:34   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:05:34   INFO [CreatingEntities.CreateWorker] : Chrome will be started
+2018-11-03 12:05:34   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 12:05:34   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-11-03 12:05:34   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-11-03 12:05:34   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-11-03 12:05:35   INFO [TestDB.TestDataBase] : [174, 300, sviridenko, pass]
+2018-11-03 12:05:35   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass], [8, 8888, Yurii12, pass]]
+2018-11-03 12:05:35   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass], [8, 8888, Yurii12, pass]]
+2018-11-03 12:05:35   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:05:40   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 12:05:40   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-11-03 12:05:40   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-11-03 12:05:40   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:05:40   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:05:40   INFO [CreatingEntities.CreateWorker] : Chrome is started
+2018-11-03 12:05:45   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:45   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:45   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:45   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:45   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (f11c169d7995352b7beab1743505b4de)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:45   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:46   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (74a348d028ad5435a8f8e62696ed2c34)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (7856c3cb7090459bf8301a4771ce6576)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (f11c169d7995352b7beab1743505b4de)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (32f0ef0ff118337341c3a343d6c3e2da)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (786d0dae9494db48fc8078d2bc790e2d)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (7856c3cb7090459bf8301a4771ce6576)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:46   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (74a348d028ad5435a8f8e62696ed2c34)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:47   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (786d0dae9494db48fc8078d2bc790e2d)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:47   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (32f0ef0ff118337341c3a343d6c3e2da)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:47   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:47   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-11-03 12:05:48   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:05:48   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:05:49   INFO [CreatingEntities.CreateWorker] : login success
+2018-11-03 12:05:50   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[0].jpg
+2018-11-03 12:05:51   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:05:51   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:05:51   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:05:51   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:05:51   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:05:51   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-11-03 12:05:52   INFO [CreatingEntities.CreateWorker] : SlovariWorkers was opened
+2018-11-03 12:05:53   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:53   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:55   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:05:55   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (32f0ef0ff118337341c3a343d6c3e2da)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-11-03 12:05:55   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:05:55   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (8f450e4a7d6502b305d9adac60ac9d5a)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:55   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:05:56   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (32f0ef0ff118337341c3a343d6c3e2da)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-11-03 12:05:56   INFO [libs.ActionsWithWebElements] : Student123  is inputed to [[ChromeDriver: chrome on XP (679b94e7b8f7537c10eed8583da3ee2e)] -> xpath: //*[@name='_username']]
+2018-11-03 12:05:56   INFO [libs.ActionsWithWebElements] : Грозный  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //input[@id='workers_workerSurname']]
+2018-11-03 12:05:56   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (8f450e4a7d6502b305d9adac60ac9d5a)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:57   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:57   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (679b94e7b8f7537c10eed8583da3ee2e)] -> xpath: //*[@id='password']]
+2018-11-03 12:05:57   INFO [libs.ActionsWithWebElements] : Иван  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //*[@id='workers_workerName']]
+2018-11-03 12:05:57   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:59   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:05:59   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateApparatcreateApparat[0].jpg
+2018-11-03 12:05:59   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[2].jpg
+2018-11-03 12:05:59   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (db089fa0d26818776c9fe2246d350f63)] -> xpath: //*[@name='_username']]
+2018-11-03 12:06:00   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[1].jpg
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : Васильевич  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //*[@id='workers_workerMiddleName']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : студент  is inputed to [[ChromeDriver: chrome on XP (2e806888d52081604c302eeb2efd14ce)] -> xpath: //*[@name='_username']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : dfsjlfsk  is inputed to [[ChromeDriver: chrome on XP (5ac36f4ff1221add5cf68dc4de9307e4)] -> xpath: //*[@name='_username']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : 650  is inputed to [[ChromeDriver: chrome on XP (5ac36f4ff1221add5cf68dc4de9307e4)] -> xpath: //*[@id='password']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (db089fa0d26818776c9fe2246d350f63)] -> xpath: //*[@id='password']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (2a453cf4730001e0d2ff9a5facb6d9a4)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 12:06:00   INFO [libs.ActionsWithWebElements] : 9090+  is inputed to [[ChromeDriver: chrome on XP (2e806888d52081604c302eeb2efd14ce)] -> xpath: //*[@id='password']]
+2018-11-03 12:06:02   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[3].jpg
+2018-11-03 12:06:02   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[4].jpg
+2018-11-03 12:06:03   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateWorkercreateWorker[0].jpg
+2018-11-03 12:17:14   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 12:17:14   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-11-03 12:17:14   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:17:14   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:17:14   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:17:14   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2018-11-03 12:17:15   INFO [TestDB.TestDataBase] : [174, 300, sviridenko, pass]
+2018-11-03 12:17:15   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass], [8, 8888, Yurii12, pass], [9, 8888, Yurii12, pass]]
+2018-11-03 12:17:15   INFO [TestDB.TestDataBase] : [[, idNumber, login, passWord], [1, 8888, Yurii12, pass], [2, 8888, Yurii12, pass], [3, 8888, Yurii12, pass], [4, 8888, Yurii12, pass], [5, 8888, Yurii12, pass], [6, 8888, Yurii12, pass], [7, 8888, Yurii12, pass], [8, 8888, Yurii12, pass], [9, 8888, Yurii12, pass]]
+2018-11-03 12:17:15   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-11-03 12:17:19   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:17:19   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 12:17:19   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-11-03 12:17:19   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:17:20   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-11-03 12:17:20   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:17:23   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:24   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:24   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (95e98137a6246fde369aa7e57cba643b)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:24   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:24   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:24   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:25   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (95e98137a6246fde369aa7e57cba643b)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:25   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (1137c7fff5b84f49039fda3cc1e9601b)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:25   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0f67d642f0ea70391d424b61fe8096eb)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:25   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (8e5ee6a398455a69dbdc07e41e317c97)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:25   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (f8a3b2a4bbe1b4f38bb3b555ed3622b2)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (4a0e60b33a912a56c2455d00002d33a8)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0f67d642f0ea70391d424b61fe8096eb)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (8e5ee6a398455a69dbdc07e41e317c97)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (1137c7fff5b84f49039fda3cc1e9601b)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (f8a3b2a4bbe1b4f38bb3b555ed3622b2)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:26   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-11-03 12:17:26   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (4a0e60b33a912a56c2455d00002d33a8)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:27   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:17:27   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:17:27   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:17:29   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[0].jpg
+2018-11-03 12:17:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:17:30   INFO [CreatingEntities.CreateWorker] : Chrome will be started
+2018-11-03 12:17:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:17:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:17:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:17:32   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-11-03 12:17:33   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:33   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:33   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:34   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (87a810969f2983fe79d98bf6e34d968f)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:34   INFO [libs.ActionsWithWebElements] : Student123  is inputed to [[ChromeDriver: chrome on XP (c9fa0b28798f13e7c7d8c4d68d6123ad)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:34   INFO [libs.ActionsWithWebElements] : dfsjlfsk  is inputed to [[ChromeDriver: chrome on XP (6c134c1274b66a320d7fc9c6763134eb)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:34   INFO [CreatingEntities.CreateWorker] : Chrome is started
+2018-11-03 12:17:34   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:17:35   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (87a810969f2983fe79d98bf6e34d968f)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:35   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (8e5ee6a398455a69dbdc07e41e317c97)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-11-03 12:17:35   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (c9fa0b28798f13e7c7d8c4d68d6123ad)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:35   INFO [libs.ActionsWithWebElements] : 650  is inputed to [[ChromeDriver: chrome on XP (6c134c1274b66a320d7fc9c6763134eb)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:36   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (8e5ee6a398455a69dbdc07e41e317c97)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-11-03 12:17:36   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:36   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:37   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:17:37   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[1].jpg
+2018-11-03 12:17:37   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[2].jpg
+2018-11-03 12:17:37   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:37   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[3].jpg
+2018-11-03 12:17:38   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateApparatcreateApparat[0].jpg
+2018-11-03 12:17:38   INFO [libs.ActionsWithWebElements] : студент  is inputed to [[ChromeDriver: chrome on XP (b0fd698bf8cfc5f6f086fd484809f88d)] -> xpath: //*[@name='_username']]
+2018-11-03 12:17:38   INFO [libs.ActionsWithWebElements] : 9090+  is inputed to [[ChromeDriver: chrome on XP (b0fd698bf8cfc5f6f086fd484809f88d)] -> xpath: //*[@id='password']]
+2018-11-03 12:17:39   INFO [CreatingEntities.CreateWorker] : login success
+2018-11-03 12:17:39   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[4].jpg
+2018-11-03 12:17:40   INFO [CreatingEntities.CreateWorker] : SlovariWorkers was opened
+2018-11-03 12:17:41   INFO [libs.ActionsWithWebElements] : Грозный  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //input[@id='workers_workerSurname']]
+2018-11-03 12:17:41   INFO [libs.ActionsWithWebElements] : Иван  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //*[@id='workers_workerName']]
+2018-11-03 12:17:41   INFO [libs.ActionsWithWebElements] : Васильевич  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //*[@id='workers_workerMiddleName']]
+2018-11-03 12:17:41   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (9f1eb1c433dc700119e0a658d9adb06f)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 12:17:42   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateWorkercreateWorker[0].jpg
+2018-11-03 12:30:15   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:30:15   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:30:15   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:30:15   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-11-03 12:30:15   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-11-03 12:30:15   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-11-03 12:30:20   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:30:20   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:30:20   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-11-03 12:30:20   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-11-03 12:30:20   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:30:22   INFO [loginTests.ValidLogin] : Chrome is started
+2018-11-03 12:30:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:25   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:26   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (bdb767fdb29b7d5f30b6cd1faa8de716)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (789d6a3e16740dc3ddb51769127d5a6b)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (51871153275501720ef30966fa46cc45)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (051817846d90e0d21aef474dc2945a19)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (bdb767fdb29b7d5f30b6cd1faa8de716)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (79023e85288ac81c10a4b88d94a46017)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (789d6a3e16740dc3ddb51769127d5a6b)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (a020aa25c4ed65e02bfb4da8977ea7f0)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (51871153275501720ef30966fa46cc45)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (051817846d90e0d21aef474dc2945a19)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (79023e85288ac81c10a4b88d94a46017)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:27   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (a020aa25c4ed65e02bfb4da8977ea7f0)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:28   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-11-03 12:30:29   INFO [CreatingEntities.CreateWorker] : Chrome will be started
+2018-11-03 12:30:29   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:30:29   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:30:29   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[0].jpg
+2018-11-03 12:30:30   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome will be started
+2018-11-03 12:30:30   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[1].jpg
+2018-11-03 12:30:32   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:30:32   INFO [CreatingEntities.CreateWorker] : Chrome is started
+2018-11-03 12:30:32   INFO [CreatingEntities.CreateApparat] : Chrome will be started
+2018-11-03 12:30:33   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:30:34   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:34   INFO [loginTests.InvalidLoginWithParamWithDataFromExcel] : Chrome is started
+2018-11-03 12:30:35   INFO [libs.ActionsWithWebElements] : Student123  is inputed to [[ChromeDriver: chrome on XP (4c49f5ec69782f2a43bc1425e48139e9)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:35   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:35   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (4c49f5ec69782f2a43bc1425e48139e9)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:35   INFO [CreatingEntities.CreateApparat] : Chrome is started
+2018-11-03 12:30:35   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:36   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:36   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:37   INFO [libs.ActionsWithWebElements] : dfsjlfsk  is inputed to [[ChromeDriver: chrome on XP (7738de9cb576004bf90d339754a3a74b)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:37   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:37   INFO [libs.ActionsWithWebElements] : студент  is inputed to [[ChromeDriver: chrome on XP (08ad5bdc66e97e16636078cd298cc7a1)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:37   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[2].jpg
+2018-11-03 12:30:37   INFO [pages.LoginPage] : Page is opened
+2018-11-03 12:30:37   INFO [libs.ActionsWithWebElements] : 650  is inputed to [[ChromeDriver: chrome on XP (7738de9cb576004bf90d339754a3a74b)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:37   INFO [libs.ActionsWithWebElements] : 9090+  is inputed to [[ChromeDriver: chrome on XP (08ad5bdc66e97e16636078cd298cc7a1)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:38   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0614bd5e0a435164edee257cac68d9c4)] -> xpath: //*[@name='_username']]
+2018-11-03 12:30:38   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0614bd5e0a435164edee257cac68d9c4)] -> xpath: //*[@id='password']]
+2018-11-03 12:30:38   INFO [CreatingEntities.CreateWorker] : login success
+2018-11-03 12:30:39   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[3].jpg
+2018-11-03 12:30:39   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\InvalidLoginWithParamWithDataFromExcelinvalidLogin[4].jpg
+2018-11-03 12:30:40   INFO [CreatingEntities.CreateWorker] : SlovariWorkers was opened
+2018-11-03 12:30:40   INFO [CreatingEntities.CreateApparat] : Slovari was chosen
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : Грозный  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //input[@id='workers_workerSurname']]
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : 121  is inputed to [[ChromeDriver: chrome on XP (0614bd5e0a435164edee257cac68d9c4)] -> xpath: //input[@id='apparat_apparatNumber']]
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : Иван  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //*[@id='workers_workerName']]
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : Stupitsa  is inputed to [[ChromeDriver: chrome on XP (0614bd5e0a435164edee257cac68d9c4)] -> xpath: //input[@id='apparat_apparatComment']]
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : Васильевич  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //*[@id='workers_workerMiddleName']]
+2018-11-03 12:30:41   INFO [libs.ActionsWithWebElements] : 08888899  is inputed to [[ChromeDriver: chrome on XP (a04cc19c265c1056b8d6a947f251fde8)] -> xpath: //*[@id='workers_workerPhone']]
+2018-11-03 12:30:42   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateApparatcreateApparat[0].jpg
+2018-11-03 12:30:43   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\CreateWorkercreateWorker[0].jpg
+2018-16-03 23:30:00   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-16-03 23:30:07   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-16-03 23:30:09   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:30:09   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (501e5931b3a37c00a2273457f668fc04)] -> xpath: //*[@name='_username']]
+2018-16-03 23:30:09   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (501e5931b3a37c00a2273457f668fc04)] -> xpath: //*[@id='password']]
+2018-16-03 23:30:10   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-16-03 23:32:14   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-16-03 23:32:19   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-16-03 23:32:20   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:32:20   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d88a4a80bf14c64e59898754751dcf54)] -> xpath: //*[@name='_username']]
+2018-16-03 23:32:21   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d88a4a80bf14c64e59898754751dcf54)] -> xpath: //*[@id='password']]
+2018-16-03 23:32:21   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-16-03 23:32:44   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-16-03 23:32:49   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-16-03 23:32:50   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:32:50   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (121a2caceb0992d603923e99555a248a)] -> xpath: //*[@name='_username']]
+2018-16-03 23:32:50   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (121a2caceb0992d603923e99555a248a)] -> xpath: //*[@id='password']]
+2018-16-03 23:32:52   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\loginTests\ValidLoginWithParamFromExcelvalidLogin[0].jpg
+2018-16-03 23:37:48   INFO [CreatingEntities.InstallApparat] : Chrome will be started
+2018-16-03 23:37:53   INFO [CreatingEntities.InstallApparat] : Chrome is started
+2018-16-03 23:37:54   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:37:54   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (f905423fae59e30fb34226ab37312449)] -> xpath: //*[@name='_username']]
+2018-16-03 23:37:54   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (f905423fae59e30fb34226ab37312449)] -> xpath: //*[@id='password']]
+2018-16-03 23:37:56   INFO [CreatingEntities.InstallApparat] : login success
+2018-16-03 23:38:00   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\InstallApparatinstallApparat[0].jpg
+2018-16-03 23:40:00   INFO [CreatingEntities.InstallApparat] : Chrome will be started
+2018-16-03 23:40:06   INFO [CreatingEntities.InstallApparat] : Chrome is started
+2018-16-03 23:40:07   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:40:07   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e6bd84d60d6c39f016b5c20a8d8536c1)] -> xpath: //*[@name='_username']]
+2018-16-03 23:40:07   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (e6bd84d60d6c39f016b5c20a8d8536c1)] -> xpath: //*[@id='password']]
+2018-16-03 23:40:08   INFO [CreatingEntities.InstallApparat] : login success
+2018-16-03 23:40:13   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\InstallApparatinstallApparat[0].jpg
+2018-16-03 23:47:12   INFO [CreatingEntities.InstallApparat] : Chrome will be started
+2018-16-03 23:47:17   INFO [CreatingEntities.InstallApparat] : Chrome is started
+2018-16-03 23:47:17   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:47:18   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (841d22db4c42953743d02e5e3b6b4ee0)] -> xpath: //*[@name='_username']]
+2018-16-03 23:47:18   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (841d22db4c42953743d02e5e3b6b4ee0)] -> xpath: //*[@id='password']]
+2018-16-03 23:47:19   INFO [CreatingEntities.InstallApparat] : login success
+2018-16-03 23:47:20   INFO [CreatingEntities.InstallApparat] : Install page was opened
+2018-16-03 23:47:21   INFO [CreatingEntities.InstallApparat] : date was chosen
+2018-16-03 23:47:21   INFO [CreatingEntities.InstallApparat] : time was chosen
+2018-16-03 23:47:22   INFO [CreatingEntities.InstallApparat] : apparat was chosen
+2018-16-03 23:47:23   INFO [CreatingEntities.InstallApparat] : worker was chosen & submitted
+2018-16-03 23:47:24   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\InstallApparatinstallApparat[0].jpg
+2018-16-03 23:51:00   INFO [CreatingEntities.InstallApparat] : Chrome will be started
+2018-16-03 23:51:05   INFO [CreatingEntities.InstallApparat] : Chrome is started
+2018-16-03 23:51:06   INFO [pages.LoginPage] : Page is opened
+2018-16-03 23:51:07   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (fa14383c8021922cc461aeccfd12ced2)] -> xpath: //*[@name='_username']]
+2018-16-03 23:51:07   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (fa14383c8021922cc461aeccfd12ced2)] -> xpath: //*[@id='password']]
+2018-16-03 23:51:08   INFO [CreatingEntities.InstallApparat] : login success
+2018-16-03 23:51:09   INFO [CreatingEntities.InstallApparat] : Install page was opened
+2018-16-03 23:51:10   INFO [CreatingEntities.InstallApparat] : date was chosen
+2018-16-03 23:51:10   INFO [CreatingEntities.InstallApparat] : time was chosen
+2018-16-03 23:51:11   INFO [CreatingEntities.InstallApparat] : apparat was chosen
+2018-16-03 23:51:12   INFO [CreatingEntities.InstallApparat] : worker was chosen & submitted
+2018-16-03 23:51:12   INFO [libs.Utils] : ScreenShot: ..\AutotestV3\target\screenshot\CreatingEntities\InstallApparatinstallApparat[0].jpg

@@ -1,12 +1,14 @@
 package CreatingEntities;
 
 
+import loginTests.ValidLogin;
 import org.junit.Test;
 import parentTest.ParentTest;
 
 public class CreateWorker extends ParentTest {
 
     public CreateWorker(String browser) {
+
         super(browser);
     }
 

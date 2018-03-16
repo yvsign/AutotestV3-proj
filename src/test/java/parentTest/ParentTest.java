@@ -22,10 +22,7 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 //import pages.ApparatPage;
 //import pages.EditApparatPage;
-import pages.HomePage;
-import pages.LoginPage;
-import pages.SlovariApparat;
-import pages.Staff;
+import pages.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -43,6 +40,7 @@ public class ParentTest {
     public HomePage homePage;
     public SlovariApparat slovariApparat;
     public Staff staff;
+    public InstallPage installPage;
     // public SdelkiListPage sdelkiListPage;
     // public EditSdelkiPage editSdelkiPage;
     // public SparePage sparePage;
@@ -126,6 +124,7 @@ public class ParentTest {
         slovariApparat = new SlovariApparat(driver);
         homePage = new HomePage(driver);
         staff = new Staff(driver);
+        installPage = new InstallPage(driver);
 
         // sdelkiListPage = new SdelkiListPage(driver);
         //editSdelkiPage = new EditSdelkiPage(driver);
@@ -141,13 +140,13 @@ public class ParentTest {
 
     }
 
-    //@After
-   //public void tearDown() {
-      // if (!isTestPass) {
-       //    utils.screenShot(pathToScreenShot, driver);
-     //  }
-      //  driver.quit();
-  //  }
+    @After
+   public void tearDown() {
+       if (!isTestPass) {
+           utils.screenShot(pathToScreenShot, driver);
+       }
+       driver.quit();
+   }
     protected void checkAcceptanceCriteria(String message, boolean actual, boolean expected) {
         if (actual != expected) {
             utils.screenShot(pathToScreenShot, driver);

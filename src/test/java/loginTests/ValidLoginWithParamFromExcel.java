@@ -20,5 +20,6 @@ public class ValidLoginWithParamFromExcel extends ParentTest {
         loginPage.openPage();
         loginPage.inputLoginName(dataFromExcelForValidLoginTest.get("login").toString());
         loginPage.inputPass(dataFromExcelForValidLoginTest.get("pass").toString());
+        loginPage.clickSubmitButton();
     }
 }
